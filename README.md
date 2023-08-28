@@ -1,5 +1,5 @@
 # ecommerce_Jon_Compass
-Este é um e-commerce para empresa Jon, feito em P´HP e MYSQL. (treinamento Compass)
+Este é um e-commerce para empresa Jon, feito em PHP e MYSQL. (treinamento Compass)
 
 Vamos criar um e-comerce para a empresa x e blablabla
 
@@ -30,8 +30,4 @@ Melhoria 1, Melhoria 2
     }
 ``` 
 
-## Listas de tarefas a fazer
-
-- [ x ] Área de membros
-- [ ]  Tarefas a fazer
-- [ ]  Sistema de bônus
+## Lista de tarefas a fazer :
