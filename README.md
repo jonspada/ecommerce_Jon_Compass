@@ -21,3 +21,11 @@ Melhoria 1, Melhoria 2
 [google](https://www.google.com)
 
 [https://compass.uol/en/home/](https://compass.uol/en/home/)
+
+## Código da função soma:
+
+``` javascript
+    function soma(a,b){
+        return a + b;
+    }
+``` 
