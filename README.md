@@ -6,3 +6,7 @@ Vamos criar um e-comerce para a empresa x e blablabla
 # Funcionalidades:
 
 checkout, tela de produto, catálago, Home com banner
+
+## Melhorias do Projeto:?
+
+Melhoria 1, Melhoria 2
