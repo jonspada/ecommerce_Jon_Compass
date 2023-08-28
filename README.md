@@ -31,3 +31,6 @@ Melhoria 1, Melhoria 2
 ``` 
 
 ## Lista de tarefas a fazer :
+- [ x ]  Área de contatos
+- [ ]  Tarefas a fazer
+- [ ]  Rodapé do CSS
