@@ -29,3 +29,9 @@ Melhoria 1, Melhoria 2
         return a + b;
     }
 ``` 
+
+## Listas de tarefas a fazer
+
+- [ x ] Área de membros
+- [ ]  Tarefas a fazer
+- [ ]  Sistema de bônus
