@@ -10,3 +10,8 @@ checkout, tela de produto, catálago, Home com banner
 ## Melhorias do Projeto:
 
 Melhoria 1, Melhoria 2
+
+## Imagem Local:
+
+
+![logo do Phyton](img/phyton.png)
